@@ -8,7 +8,7 @@ You are welcome to put an issue or email me at <hwang258@jhu.edu>, to point out 
 
 ## Tasks
 
-|Task|DataSets|Input Mode|Output Mode|Modeling Target|Level|Description&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|Task|DataSets|Input Mode|Output Mode|Modeling Target|Level|Description &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | :-----|:----- |:----- |:----- |:----- |:----- |:---------- |
 |Accent Classification|[AccentDB Extended Dataset](https://accentdb.org)|Audio|Label|Classification|Accent|Accent classification involves the recognition and classification of specific speech accents.The task involves the recognition and classification of specific speech accents. The possible answers include American, Australian, Bangla, British, Indian, Malayalam, Odiya, Telugu, or Welsh. The objective is to correctly identify these accents based on the given speech samples, contributing to a system's ability to understand and interact with various speakers.|
 |Acoustic Echo Cancellation|[AEC Challenge](https://github.com/microsoft/AEC-Challenge) |Audio|Audio|Regression|Acoustic|The Acoustic Echo Cancellation block is designed to remove echoes, reverberation, and unwanted added sounds from a signal that passes through an acoustic space.|
