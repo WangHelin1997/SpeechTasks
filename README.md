@@ -57,6 +57,11 @@ You are welcome to put an issue or email me at <hwang258@jhu.edu>, to point out 
 
 ## And more
 
+## Input & Output Modes
+|Input|Output|Tasks|
+| :-----|:----- |:----- |
+|Audio|Label|Accent Classification|
+
 ## References
 1. [Dynamic-SUPERB](https://github.com/dynamic-superb/dynamic-superb)
 
