@@ -3,4 +3,6 @@ This is a list of speech tasks and datasets, which can provide training data for
 
 ## Tasks
 
-|x|y|z|
+|Time|Event|
+| :-----|:----- |
+|17 Mar 2022 | Columbia Rejected|
