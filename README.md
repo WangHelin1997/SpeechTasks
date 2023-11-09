@@ -1,6 +1,11 @@
 # SpeechTasks
 This is a list of speech tasks and datasets, which can provide training data for Generative AI, AIGC, AI model training, intelligent speech tool development, and speech applications.
 
+## Continuously Updating!
+I will add new tasks and datasets to this repo continously.
+
+You are welcome to make comments or email me at <hwang258@jhu.edu>, to point out any unlisted tasks and datasets!
+
 ## Tasks
 
 |Task|DataSets|Input Mode|Output Mode|Modeling Target|Level|Description|
@@ -49,7 +54,9 @@ This is a list of speech tasks and datasets, which can provide training data for
 |Expressive TTS|[Expresso](https://github.com/facebookresearch/textlesslib/tree/main/examples/expresso/dataset) |Text, Label|Audio|Generation|Acoustic|Expressive text-to-speech (TTS) aims to synthesize speech with specfic reading types or improvised styles.|
 |Speech Edit|[LibriTTS](https://www.openslr.org/60)<br />[VCTK Dataset](https://datashare.ed.ac.uk/handle/10283/3443)<br />[LJSpeech Dataset](https://keithito.com/LJ-Speech-Dataset/) |Audio, Text|Audio|Generation|Acoustic, Language|Speech edit allows the user to edit the recorded speech, e.g., insert missed words, replace mispronounced words, and/or remove unwanted speech or non-speech events, without degrading the quality and naturalness of the edited speech.|
 
+## References
+1. [Dynamic-SUPERB](https://github.com/dynamic-superb/dynamic-superb)
 
-## Continuously Updating!
-I will add new tasks and datasets to this repo continously.
-You are welcome to make comments or email me at <hwang258@jhu.edu>, to point out any unlisted tasks and datasets!
+2. [paperswithcode](https://paperswithcode.com/)
+
+3. [kaggle](https://www.kaggle.com/)
