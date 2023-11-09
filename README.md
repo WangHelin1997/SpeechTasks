@@ -4,7 +4,7 @@ This is a list of speech tasks and datasets, which can provide training data for
 ## Continuously Updating!
 I will add new tasks and datasets to this repo continously.
 
-You are welcome to make comments or email me at <hwang258@jhu.edu>, to point out any unlisted tasks and datasets!
+You are welcome to put an issue or email me at <hwang258@jhu.edu>, to point out any unlisted tasks and datasets!
 
 ## Tasks
 
