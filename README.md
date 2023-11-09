@@ -3,6 +3,6 @@ This is a list of speech tasks and datasets, which can provide training data for
 
 ## Tasks
 
-|Time|Event|
-| :-----|:----- |
-|17 Mar 2022 | Columbia Rejected|
+|Task|DataSets|Input Mode|Output Mode| Task Mode|Level|Description|
+| :-----|:----- |:----- |:----- |:----- |:----- |:----- |
+|Accent Classification|*|Audio|Label|Classification|Accent||
