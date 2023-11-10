@@ -6,7 +6,7 @@ I will add new tasks and datasets to this repo continously.
 
 You are welcome to put an issue or email me at <hwang258@jhu.edu>, to point out any unlisted tasks and datasets!
 
-# Table of Contents
+## Table of Contents
 1. [Tasks and DataSets](#task1)
 2. [Tasks with different input & output modes](#task2)
 3. [Tasks with different Level](#task3)
