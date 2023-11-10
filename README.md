@@ -11,7 +11,7 @@ You are welcome to put an issue or email me at <hwang258@jhu.edu>, to point out 
 2. [Tasks with different input & output modes](#task2)
 3. [Tasks with different Level](#task3)
 
-## Tasks and DataSets
+## Tasks and DataSets <a name="task1"></a>
 
 |Task|DataSets|Input Mode|Output Mode|Modeling Target|Level|Description|
 | :-----|:----- |:----- |:----- |:----- |:----- |:---------- |
@@ -62,7 +62,7 @@ You are welcome to put an issue or email me at <hwang258@jhu.edu>, to point out 
 
 ### And more
 
-## Tasks with different input & output modes
+## Tasks with different input & output modes <a name="task2"></a>
 |Input|Output|Tasks|
 | :-----|:----- |:----- |
 |Audio|Audio|Acoustic Echo Cancellation, Speech Dereverberation, Speech Enhancement, Speech-to-speech Translation|
@@ -80,7 +80,7 @@ You are welcome to put an issue or email me at <hwang258@jhu.edu>, to point out 
 |Text|Audio|Instruct TTS, Text-To-Speech Synthesis|
 |Text, Label|Audio|Emotional TTS, Expressive TTS|
 
-## Tasks with different Level
+## Tasks with different Level <a name="task3"></a>
 |Level|Tasks|
 | :-----|:-----|
 |Acoustic|Accent Classification, Acoustic Echo Cancellation, DeepFake Detection, Emotional TTS, Enhancement Detection, Expressive TTS, HowFarAreYou, Instruct TTS, Noise Detection, Noise SNR Level Prediction, Reverberation Detection, Speech Edit, Speech Dereverberation, Speech Enhancement, Spoof Detection, Stress Detection, Text-To-Speech Synthesis, Vocal Sound Classification, Voice Conversion|
